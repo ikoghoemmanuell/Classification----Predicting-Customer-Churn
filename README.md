@@ -1,13 +1,13 @@
+## Classification — Predicting Customer Churn
+
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ikoghoemmanuell)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
 
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@emmanuel.ikogho/classification-predicting-customer-churn-3456c488aaf9)
 
-# Classification — Predicting Customer Churn
+<img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*th_R2wN2iVIk1zxqAA_Sdw.png" width="">
 
 ## Introduction
-
-<img src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*th_R2wN2iVIk1zxqAA_Sdw.png" width="">
 
 What is Customer Churn?
 
